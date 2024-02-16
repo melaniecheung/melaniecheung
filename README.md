@@ -1,7 +1,7 @@
 ## 👋 Hi! I'm Melanie
 
-- Management Engineering student at the University of Waterloo
-- Actively pursuing software engineering opportunities!
+🏫 Management Engineering student at the University of Waterloo
+🔍 Actively pursuing software engineering opportunities!
 
 ---
 
