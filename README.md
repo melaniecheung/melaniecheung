@@ -1,9 +1,12 @@
 ### Hi! I'm Melanie 👋
 
+Management Engineering student at the University of Waterloo, actively pursuing software engineering opportunities
+
+![](https://komarev.com/ghpvc/?username=melaniecheung)
+
 <!--
 **melaniecheung/melaniecheung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Engineering student at the University of Waterloo, actively pursuing software engineering opportunities
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,4 +17,3 @@ Engineering student at the University of Waterloo, actively pursuing software en
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?username=melaniecheung)
