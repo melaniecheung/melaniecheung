@@ -1,8 +1,9 @@
-# 👋 Hi! I'm Melanie
+## 👋 Hi! I'm Melanie
 
-# Management Engineering student at the University of Waterloo, actively pursuing software engineering opportunities!
+## Management Engineering student at the University of Waterloo, actively pursuing software engineering opportunities!
 
 ---
+
 ![](https://komarev.com/ghpvc/?username=melaniecheung)
 
 ## 🌐 Socials:
