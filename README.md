@@ -1,6 +1,6 @@
-### 👋 Hi! I'm Melanie
+# 👋 Hi! I'm Melanie
 
-### Management Engineering student at the University of Waterloo, actively pursuing software engineering opportunities!
+# Management Engineering student at the University of Waterloo, actively pursuing software engineering opportunities!
 
 ---
 ![](https://komarev.com/ghpvc/?username=melaniecheung)
@@ -10,7 +10,7 @@
 
 ## 💻 Skills
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=melaniecheung&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=melaniecheung&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
