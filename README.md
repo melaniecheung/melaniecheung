@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hi! I'm Melanie</h1>
 <h3 align="center">Management Engineering Student @ University of Waterloo</h1>
-<h3 align="center">Actively seeking Fall 2024 SWE Internships</h1>
+<h3 align="center">Actively Seeking Software Engineering Internships</h1>
 
 ---
 
