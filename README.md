@@ -1,6 +1,7 @@
 <h1 align="center"> 👋 Hi! I'm Melanie</h1>
 <h3 align="center">Management Engineering Student @ University of Waterloo</h1>
-<h3 align="center">Incoming SWE Intern @ Meta</h1>
+<h3 align="center">Incoming Software Engineer Intern @ Meta</h1>
+<h3 align="center">Previously @ Intuit</h1>
 
 ---
 
