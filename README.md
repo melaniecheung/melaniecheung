@@ -2,7 +2,8 @@
 <h3 align="center">Management Engineering Student @ University of Waterloo</h1>
 <h3 align="center">Incoming Software Engineer Intern @ Meta</h1>
 <h3 align="center">Previously @ Intuit</h1>
-<h4 align="center">Building https://www.interndb.io/</h4>
+---
+<h4 align="center">🛠️ Building https://www.interndb.io/</h4>
 
 ---
 
