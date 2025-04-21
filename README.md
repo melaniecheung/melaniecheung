@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Hi! I'm Melanie</h1>
-<h3 align="center">Engineering @ University of Waterloo</h3>
+<h3 align="center">Engineering @ UWaterloo</h3>
 <h3 align="center">SWE Intern @ Meta</h3>
 <h3 align="center">Building https://www.interndb.io/</h3>
 
